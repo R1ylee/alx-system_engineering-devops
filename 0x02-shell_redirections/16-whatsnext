@@ -1,0 +1,2 @@
+#!/bin/bash
+gret -i -A 3 "root" /etc/passwd
